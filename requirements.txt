@@ -2,5 +2,4 @@ streamlit
 google-genai
 Pillow
 pandas
-streamlit-google-sheets
 st-gsheets-connection
